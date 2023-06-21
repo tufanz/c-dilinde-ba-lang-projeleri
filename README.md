@@ -1,1 +1,1 @@
-# c-dilinde-ba-lang-projeleri
+# c-dilinde-baslangic-projeleri
